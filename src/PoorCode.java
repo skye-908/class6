@@ -49,8 +49,8 @@ public class PoorCode {
 	 * First parameter serves as the title, second as the first name and second is the surname
 	 * 
 	 */
-	public static void x(String a, String b, String c) {
-		System.out.println("Hello, " + a + " " + b + " " + c);
+	public static void x( title, firstName, surname) {
+		System.out.println("Hello, " + title + " " + firstName + " " + surname);
 	}
 	
 public 
